@@ -1,0 +1,10 @@
+C:\home\projects\Calculator-OPI\bin\Debug\Calculator-OPI.exe.config
+C:\home\projects\Calculator-OPI\bin\Debug\Calculator-OPI.exe
+C:\home\projects\Calculator-OPI\bin\Debug\Calculator-OPI.pdb
+C:\home\projects\Calculator-OPI\obj\Debug\Calculator-OPI.csproj.AssemblyReference.cache
+C:\home\projects\Calculator-OPI\obj\Debug\Calculator_OPI.Form1.resources
+C:\home\projects\Calculator-OPI\obj\Debug\Calculator_OPI.Properties.Resources.resources
+C:\home\projects\Calculator-OPI\obj\Debug\Calculator-OPI.csproj.GenerateResource.cache
+C:\home\projects\Calculator-OPI\obj\Debug\Calculator-OPI.csproj.CoreCompileInputs.cache
+C:\home\projects\Calculator-OPI\obj\Debug\Calculator-OPI.exe
+C:\home\projects\Calculator-OPI\obj\Debug\Calculator-OPI.pdb
